@@ -21,7 +21,6 @@
 .calendar_img_block,
 .calendar_text_block {
   height: 72px;
-  /*display: inline-block;*/
   float: left;
 }
 .calendar_img_block {
